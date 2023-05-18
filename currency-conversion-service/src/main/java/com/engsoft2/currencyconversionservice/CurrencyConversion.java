@@ -1,4 +1,4 @@
-package main.java.com.engsoft2.currencyconversionservice;
+package com.engsoft2.currencyconversionservice;
 
 import java.math.BigDecimal;
 
