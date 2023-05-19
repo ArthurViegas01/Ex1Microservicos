@@ -11,10 +11,10 @@ public class CurrencyCollector {
     private BigDecimal totalCalculatedAmount;
     private String environment;
 
-    public CurrencyConversion() {
+    public CurrencyCollector() {
     }
 
-    public CurrencyConversion(Long id, String from, String to, BigDecimal quantity, BigDecimal conversionMultiple,
+    public CurrencyCollector(Long id, String from, String to, BigDecimal quantity, BigDecimal conversionMultiple,
             BigDecimal totalCalculatedAmount, String environment) {
         this.id = id;
         this.from = from;
