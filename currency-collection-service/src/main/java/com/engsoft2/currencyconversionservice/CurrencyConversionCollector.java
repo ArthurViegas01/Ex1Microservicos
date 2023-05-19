@@ -18,7 +18,7 @@ import org.springframework.web.client.RestTemplate;
 
 @RestController
 
-public class CurrencyConversionController {
+public class CurrencyCollectorController {
 
     @Autowired
 
